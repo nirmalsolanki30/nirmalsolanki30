@@ -1,7 +1,7 @@
 # 👋 Hello There, I'm **Solanki Nirmal Bhikhabhai** !
 
 <p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px">  
+  
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=4000&pause=1000&color=00F7FF&center=true&vCenter=true&width=550&height=40&lines=MERN+Stack+Developer;Competitive+Programmer;Problem+Solver" />
 </p>
 
