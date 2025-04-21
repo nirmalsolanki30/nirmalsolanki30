@@ -55,7 +55,6 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nirmalsolanki30&layout=compact&theme=radical)
 
 ---
-![Profile views](https://komarev.com/ghpvc/?username=nirmalsolanki30&color=blue)
 
 ## 🤝 Let's Connect
 
